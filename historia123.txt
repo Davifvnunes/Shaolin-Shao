@@ -309,3 +309,14 @@
   309  git push -u origin main
   310  history
   311  history > historia123.txt
+  312  la
+  313  git status
+  314  git add -a
+  315  git commit
+  316  git add -A
+  317  git commit
+  318  git push -u origin main
+  319  cut -d, -f1,4 dados.csv
+  320  gedit cut -d, -f1,4 dados.csv
+  321  lass cut -d, -f1,4 dados.csv 
+  322  less  cut -d, -f1,4 dados.csv 
