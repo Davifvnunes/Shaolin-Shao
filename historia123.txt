@@ -1,0 +1,311 @@
+    1  nano prog1.sh
+    2  ./prog1.sh
+    3  nano prog1.sh
+    4  /ls -l
+    5  ls -l
+    6  ls
+    7  nano prog1.sh
+    8  bash prog1.sh 
+    9  nano progmedia.sho
+   10  bash progmedia.sho 
+   11  nano progmedia.sho 
+   12  bash progmedia.sho 
+   13  nano progmedia.sho 
+   14  bash progmedia.sho 
+   15  nano progcirc.sho
+   16  bash progcirc.sho 
+   17  nano progcirc.sho
+   18  bash progcirc.sho 
+   19  nano progcirc.sho
+   20  bash progcirc.sho 
+   21  nano proglistn.sh
+   22  bash progcirc.sho 
+   23  nano progcirc.sho
+   24  bash progcirc.sho 
+   25  nano progcirc.sho
+   26  bash progcirc.sho 
+   27  sudo apt install yabasic
+   28  clear screen
+   29  	print "Press 'q' to quit ..."
+   30  	label again
+   31  	print color("green") "Hello ";
+   32  	print color("blue") "World !   ";
+   33  	if (inkey$(1)="q") exit
+   34  	goto again
+   35  clear screen
+   36  print "Press 'q' to quit ..."
+   37  label again
+   38  print color("green") "Hello ";
+   39  print color("blue") "World !   ";
+   40  if (inkey$(1)="q") exit
+   41  goto again
+   42  nano basic.basic
+   43  yabasic exemplo.bas
+   44  nano basic.bas
+   45  yabasic exemplo.bas
+   46  yabasic
+   47  nano basic.bas
+   48  yabasic basic.bas
+   49  nano basic.bas
+   50  yabasic basic.bas
+   51  nano basic.bas
+   52  yabasic basic.bas
+   53  na
+   54  nano basic.bas 
+   55  yabasic basic.bas
+   56  nano basic.bas 
+   57  yabasic basic.bas
+   58  nano basic.bas 
+   59  yabasic basic.bas
+   60  nano basic.bas 
+   61  yabasic basic.bas
+   62  nano basic.bas 
+   63  yabasic basic.bas
+   64  nano basic.bas 
+   65  yabasic basic.bas
+   66  nano basic.bas 
+   67  yabasic basic.bas
+   68  nano basic.bas 
+   69  yabasic basic.bas
+   70  nano basic.bas 
+   71  yabasic basic.bas
+   72  nano fibo.bas
+   73  yabasic fibo.bas
+   74  nano fibo.bas
+   75  yabasic fibo.bas
+   76  shutdown now
+   77  ls -h
+   78  yabasic fibo.bas
+   79  yabasic basic.bas
+   80  nano fibo.bas
+   81  yabasic fibo.bas
+   82  nano fibo.bas
+   83  grep
+   84  greo --help
+   85  grep --help
+   86  grep -u
+   87  ./prog1.sh
+   88  tree
+   89  sudo apt instal pandas
+   90  tree
+   91  sudo su
+   92  sudo apt install git
+   93  git --help
+   94  git config --global user.name "Shaolin shao"
+   95  git config --global user.email Shaolinshao01@gmail.com
+   96  which nano
+   97  git config --list
+   98  mkdir exercicio de grep
+   99  ls
+  100  rm -r exercicio
+  101  rm -r de
+  102  rm -r grep
+  103  ls
+  104  mkdir exercicio\ de \grep
+  105  ls
+  106  rm -r exercicio de
+  107  rm -r 'exercicio de'
+  108  rm -r grep
+  109  mkdir Exercicio\ de\ grep
+  110  ls
+  111  cd Exercicio\ de\ grep
+  112  git init
+  113  ls -la
+  114  ls .git/
+  115  ls ..
+  116  ls ../*.sh
+  117  echo "teste teste" | grep "teste\s"
+  118  history
+  119  grep "linha$" GREP.md
+  120  grep -n "linha$" GREP.md
+  121  grep "linha$" GREP.md
+  122  git status
+  123  git add GREP.md 
+  124  git commit -a
+  125  git log
+  126  grep -En "(que ){1,2}" GREP.md
+  127  ls
+  128  nano busca.sh
+  129  chmod busca.sh
+  130  chmod -x  busca.sh
+  131  chmod -x busca.sh
+  132  nano busca.sh
+  133  chmod -x busca.sh
+  134  git status
+  135  git add busca.sh
+  136  git status
+  137  git log
+  138  chmod --help
+  139  chmod busca.sh
+  140  chmod -v busca.sh
+  141  chmod --help
+  142  chmod -V busca.sh
+  143  shutdown now
+  144  ll
+  145  grep -En "(que ){1,2}" GREP.md
+  146  git log
+  147  ls
+  148  history
+  149  cd Exercicio\ de\ grep/
+  150  ./busca.sh
+  151  .\busca.sh
+  152  mv ~/Downloads/dados.csv 
+  153  mv ~/Downloads/dados.csv . 
+  154  ls
+  155  git status
+  156  git add dados.csv 
+  157  git status
+  158  cd ..
+  159  git clone Exercicio\ de\ grep/ meu_clone
+  160  ls
+  161  la
+  162  ls
+  163  ls -h
+  164  git status
+  165  cs meu_clone
+  166  cd meu_clone/
+  167  git status
+  168  exit
+  169  ll meu_clone/
+  170  ll Exercicio\ de\ grep/
+  171  LS -A
+  172  ls -a
+  173  git help clone
+  174  git commit -a
+  175  cd Exercicio\ de\ grep/
+  176  git commit -a
+  177  git status
+  178  git log
+  179  nano busca.sh 
+  180  chmod busca.sh
+  181  ll
+  182  chmod +x busca.sh 
+  183  ./busca.sh GREP.md 
+  184  git status
+  185  git commit -a
+  186  git status
+  187  git log
+  188  nano dados.csv 
+  189  nano busca.sh
+  190  ./busca.sh que  GREP.md 
+  191  ./busca.sh que  GREP.md que
+  192  ./busca.sh que GREP.md
+  193  ls
+  194  nano busca.sh 
+  195  ./busca.sh GREP.md que
+  196  dados.csv ]
+  197  dados.csv 
+  198  ./dados.csv
+  199  ll
+  200  cat dados.csv 
+  201  sed "s/BRA/BR/g" dados.csv | grep -c "BR"
+  202  cp busca.sh analisa.sh
+  203  nano analisa.sh 
+  204  cat analisa.sh 
+  205  ll
+  206  ./analisa.sh 
+  207  nano analisa.sh 
+  208  nano busca.dh
+  209  nano busca.sh
+  210  ls
+  211  ll
+  212  cd Exercicio\ de\ grep/
+  213  LL
+  214  ll
+  215  nano analisa.sh 
+  216  ./ analisa.sh 
+  217  nano analisa.sh 
+  218  ./ analisa.sh 
+  219  ./ analisa.sh dados.csv 
+  220  ./analisa.sh dados.csv 
+  221  git status
+  222  git add analisa.sh 
+  223  git commit -a
+  224  git status
+  225  git log
+  226  shutdown now
+  227  git init
+  228  git status
+  229  git add -a
+  230  cd Exercicio\ de\ grep/
+  231  git status
+  232  git log
+  233  q
+  234  cd 
+  235  mkdir bababa
+  236  la
+  237  banana 
+  238  cd banana
+  239  git clone https://github.com/fccoelho/introcomp.git.
+  240  git clone https://github.com/fccoelho/introcomp.git
+  241  cd introcomp/
+  242  la
+  243  git remote -v
+  244  ls
+  245  git puul
+  246  git pull
+  247  cd ../../Exer
+  248  cd ../Exercicio\ de\ grep/
+  249  git status
+  250  git remote add origin https://github.com/Davifvnunes/Shaolin-Shao.git
+  251  git branch -M main
+  252  git push -u origin main
+  253  git remote add origin https://github.com/Davifvnunes/Shaolin-Shao.git
+  254  git branch -M main
+  255  git push -u origin main
+  256  git remote -v
+  257  git remote add origin https://github.com/Davifvnunes/Shaolin-Shao.git
+  258  git branch -M main
+  259  git push -u origin main
+  260  git remote add origin https://github.com/Davifvnunes/Shaolin-Shao.git
+  261  git branch -M main
+  262  git push -u origin main
+  263  git remote add origin https://github.com/Davifvnunes/test.git
+  264  git branch -M main
+  265  git push -u origin main
+  266  clear
+  267  ssh-keygen
+  268  git remote add origin https://github.com/Davifvnunes/Shaolin-Shao.git
+  269  git branch -M main
+  270  git push -u origin main
+  271  ls ~/.ssh/
+  272  history
+  273  yabasic basic.bas
+  274  exit
+  275  cd Exercicio\ de\ grep/
+  276  ls ~/.ssh/
+  277  gedit ls ~/.ssh/id_rsa.pub
+  278  git remote add origin https://github.com/Davifvnunes/Shaolin-Shao.git
+  279  git branch -M main
+  280  git push -u origin main
+  281  git remote remove
+  282  git remote remove 
+  283  git status
+  284  git remote
+  285  git remote remove origin
+  286  git remote add origin git@github.com:Davifvnunes/Shaolin-Shao.git
+  287  git branch -M main
+  288  git push -u origin main
+  289  git log
+  290  git remote remove origin
+  291  git remote add origin < git@github.com:Davifvnunes/Shaolin-Shao.git
+  292  git push -u origin main
+  293  git remote
+  294  git remote add origin<git@github.com:Davifvnunes/Shaolin-Shao.git
+  295  gitstatus
+  296  git status
+  297  git log
+  298  git remote add origin git@github.com:Davifvnunes/Shaolin-Shao.git
+  299  git remote
+  300  history
+  301  ssh-keygen
+  302  n
+  303  git status
+  304  git add -A
+  305  git status
+  306  git add -A
+  307  git status
+  308  git commit -a
+  309  git push -u origin main
+  310  history
+  311  history > historia123.txt
