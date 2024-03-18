@@ -320,3 +320,16 @@
   320  gedit cut -d, -f1,4 dados.csv
   321  lass cut -d, -f1,4 dados.csv 
   322  less  cut -d, -f1,4 dados.csv 
+  323  git status
+  324  git add -A
+  325  git commit
+  326  git push -u origin main
+  327  git log
+  328  shutdown now
+  329  git add -A
+  330  chmod 
+  331  ls
+  332  chmod Exercicio\ de\ grep/
+  333  cd Exercicio\ de\ grep/
+  334  git add -A
+  335  history > historia123.txt
