@@ -333,3 +333,29 @@
   333  cd Exercicio\ de\ grep/
   334  git add -A
   335  history > historia123.txt
+  336  git add -A
+  337  git commit
+  338  git log
+  339  ip addres
+  340  tcp addres
+  341  netsatat -at
+  342  netstat -at
+  343  sudo apt install tracerout
+  344  sudo apt install traceroute
+  345  mtr www.fgv.br
+  346  pin www.fgv.br
+  347  ping www.fgv.br
+  348  mtr www.rider.com.br
+  349  mtr www.prada.com
+  350  mtr www.saude.gov.br
+  351  dns
+  352  dns --help
+  353  server
+  354  edns
+  355  sudo apt install netstat
+  356  sudo apt install net-toos
+  357  sudo apt install net-tools
+  358  netstat -at
+  359  netstat -r
+  360  history
+  361  history > historia123.txt 
