@@ -359,3 +359,70 @@
   359  netstat -r
   360  history
   361  history > historia123.txt 
+  362  git add -A
+  363  git commit
+  364  git log
+  365  git push
+  366  git statu
+  367  git status
+  368  ip 64
+  369  open ai
+  370  xit
+  371  exit
+  372  mkdir 
+  373  ls
+  374  mkdir Exercicio\ de\ grep/
+  375  cd Exercicio\ de\ grep/
+  376  git clone git@github.com:FGV-EMAp/cria-o-de-reposit-rios-commits-e-branchs-24-1-Davifvnunes.git
+  377  ls
+  378  cd cria-o-de-reposit-rios-commits-e-branchs-24-1-Davifvnunes/
+  379  nano 1+1.sh
+  380  nano progcirc.sho
+  381  q
+  382  cd ..
+  383  nano progcirc.sho 
+  384  cd cria-o-de-reposit-rios-commits-e-branchs-24-1-Davifvnunes/
+  385  nano 1+1.sh
+  386  commit status
+  387  git status
+  388  git commit -A
+  389  git status
+  390  ls
+  391  git add 1+1.sh 
+  392  git status
+  393  git commit -a
+  394  nano a+1.sh
+  395  mv a+1.sh Bomdia.sh
+  396  git status
+  397  git add Bomdia.sh 
+  398  git commit
+  399  git status
+  400  nano paper.txt
+  401  git status
+  402  git add paper.txt 
+  403  git commit
+  404  git branch dev
+  405  git branch
+  406  git checkout dev
+  407  git branch
+  408  nano singular.txt
+  409  git status
+  410  git add singular.txt 
+  411  git commit
+  412  nano legal.sh
+  413  git status
+  414  git add
+  415  git add legal.sh 
+  416  git commit 
+  417  git status
+  418  git checkout main
+  419  git branch 
+  420  nano ahhh.sh
+  421  git status
+  422  git add ahhh.sh 
+  423  git commit 
+  424  git branch
+  425  git merge dev
+  426  git log
+  427  cd ..
+  428  history > historia123.txt 
