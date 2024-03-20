@@ -426,3 +426,30 @@
   426  git log
   427  cd ..
   428  history > historia123.txt 
+  429  git status
+  430  cd cria-o-de-reposit-rios-commits-e-branchs-24-1-Davifvnunes/
+  431  git status
+  432  git push
+  433  cd..
+  434  cd ..
+  435  sudo app install wire shark
+  436  sudo apt install wire shark
+  437  sudo apt install wireshark
+  438  mkdir redes-e-internet
+  439  cd redes-e-internet/
+  440  nano exercicio.py
+  441  mv exercicio.py servidor.py
+  442  nano cliente.py
+  443  $ python servidor_de_eco.py
+  444  python servidor_de_eco.py
+  445  python3 servidor_de_eco.py
+  446  ls
+  447  python3 srvidro.py
+  448  python3 servidor.py
+  449  git status
+  450  cd ..
+  451  git status
+  452  git add -A
+  453  git status
+  454  git commit
+  455  history > historia123.txt 
